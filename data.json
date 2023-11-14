@@ -1,0 +1,34 @@
+{
+  "classes": [
+    {
+      "name": "Pilates",
+      "image": "./images/s1.jpeg",
+      "description": "Pilates is a type of mind-body exercise developed in the early 20th century by German physical trainer Joseph Pilates, after whom it was named. Pilates called his method 'Contrology'"
+    },
+    {
+      "name": "Boxing",
+      "image": "./images/s2.jpg",
+      "description":"Boxing is a combat sport and a martial art in which two people, usually wearing protective gloves and other protective equipment such as hand wraps and mouthguards, throw punches at each other for a predetermined amount of time in a boxing ring"
+    },
+    {
+        "name": "BodyPump",
+        "image": "./images/s3.jpg",
+        "description":"The BodyPump workout typically involves a series of exercises set to music, using a barbell and weights. The class is designed to work all major muscle groups in the body, including legs, chest, back, shoulders, and core. Participants go through a series of choreographed routines, performing a variety of movements such as squats, lunges, deadlifts, presses, and curls."
+    },
+    {
+        "name": "Zumba",
+        "image": "./images/s4.jpg",
+        "description":"Zumba classes typically involve dynamic and rhythmic movements inspired by various dance styles, such as salsa, merengue, cumbia, reggaeton, and more. Participants follow along with the instructor's choreography to the beat of lively music, creating a fun and engaging atmosphere. The routines often include a mix of low-intensity and high-intensity movements, making it suitable for a wide range of fitness levels."
+    },
+    {
+        "name":"Kickboxing",
+        "image": "./images/s5.jpg",
+        "description":"Kickboxing is a combat sport and a type of martial art that involves a combination of boxing techniques (using punches) and kicking techniques from various martial arts styles such as Karate, Muay Thai, and Taekwondo. It is practiced both as a competitive sport and as a fitness and self-defense activity"
+    },
+    {
+        "name": "Bootcamp",
+        "image": "./images/s6.jpg",
+        "description":"Gym boot camp classes offer a variety of benefits, both physical and mental, due to their structured and high-intensity nature. It  typically incorporate a wide range of exercises that target various muscle groups, providing a comprehensive full-body workout."
+    }
+  ]
+}
